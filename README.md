@@ -1,0 +1,12 @@
+[![Name](https://img.shields.io/badge/Name-Jesse%20Jin-red)](https://github.com/afrusrsc)
+[![Gitee](https://img.shields.io/badge/Gitee-afrusrsc-green)](https://gitee.com/afrusrsc)
+[![Blog](https://img.shields.io/badge/Blog-%E6%85%A2%E6%AD%A5%E9%81%93%E4%BA%BA-blue)](https://afrusrsc.github.io)
+![字](https://img.shields.io/badge/%E5%AD%97-%E5%BF%83%E5%BF%B5-white)
+![GitHub followers](https://img.shields.io/github/followers/afrusrsc)
+![GitHub User's stars](https://img.shields.io/github/stars/afrusrsc)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrusrsc&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afrusrsc&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afrusrsc&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afrusrsc&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afrusrsc&theme=github)
